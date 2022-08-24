@@ -20,4 +20,5 @@ if __name__ == '__main__':
 
 
 
+
 #! Para teste JWT: https://jwt.io/
